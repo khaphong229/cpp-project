@@ -1,0 +1,11 @@
+*.inp
+*.out
+
+*.cph
+
+# Ignore the .vscode directory
+.vscode/
+
+# Ignore .exe files
+*.exe
+
